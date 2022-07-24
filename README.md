@@ -87,12 +87,12 @@ Checkboxes can be rendered in cells that are in a column with the `checkbox` con
 
 ### Emphasis
 
-To bold text use either double astericks `**` or the bold tag `<b>`
+To bold text use either double asterisks `**` or the bold tag `<b>`
 
 -   `**This is bold**`
 -   `<b>This is bold</b>`
 
-To italicize text use either single astericks `*` or the italics tag `<i>`
+To italicize text use either single asterisks `*` or the italics tag `<i>`
 
 -   `*This is italicized*`
 -   `<i>This is italicized</i>`
@@ -113,7 +113,7 @@ Links can be rendered in cells that are in a column with the `text` column conte
 
 ### URLs
 
-If you want to display a url, type the url making sure it begins with `http://` or `https://`. NLT will automatically render it in the table.
+If you want to display an url, type the url making sure it begins with `http://` or `https://`. NLT will automatically render it in the table.
 
 ![Screenshot](https://raw.githubusercontent.com/trey-wallis/obsidian-notion-like-tables/master/.readme/url.png)
 
@@ -139,7 +139,7 @@ NOTE: The table must be in focus for this to work. Click on the table to focus i
 
 Text and number cells have an option for `Auto Width`. Auto width means that the column will automatically resize to the largest width of the cell.
 
-Please note that this will caluclate the maximum length of the text without wrapping.
+Please note that this will calculate the maximum length of the text without wrapping.
 
 This feature can be enabled by clicking on a header, clicking "Edit" and then clicking the toggle for `Auto Width`.
 
